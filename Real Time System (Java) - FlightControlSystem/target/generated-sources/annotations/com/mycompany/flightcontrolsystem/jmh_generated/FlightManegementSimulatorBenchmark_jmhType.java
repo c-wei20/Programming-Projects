@@ -1,0 +1,4 @@
+package com.mycompany.flightcontrolsystem.jmh_generated;
+public class FlightManegementSimulatorBenchmark_jmhType extends FlightManegementSimulatorBenchmark_jmhType_B3 {
+}
+
