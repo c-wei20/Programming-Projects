@@ -1,0 +1,13 @@
+Damansara (SC-DM)	Basketball	SC-DM07	Mon	7.30pm - 10pm	2.5
+Damansara (SC-DM)	Archery	SC-DM04	Tue	2pm - 4pm	2
+Cheras (SC-CR)	Cricket	SC-CR08	Thus	3pm - 5pm	2
+Bukit Jalil (SC-BJ)	Badminton	SC-BJ02	Mon	7pm - 10pm	3
+Bukit Jalil (SC-BJ)	Football	SC-BJ03	Fri	4.30pm - 7pm	2.5
+Bukit Jalil (SC-BJ)	Gymnastics	SC-BJ05	Wed	1pm - 4pm	3
+Damansara (SC-DM)	Table Tennis	SC-DM010	Fri	4pm - 6pm	2
+Damansara (SC-DM)	Badminton	SC-DM02	Sun	3pm - 6pm	3
+Cheras (SC-CR)	Volleyball	SC-CR06	Mon	4pm - 6pm	2
+Cheras (SC-CR)	Archery	SC-CR04	Fri	10am - 12pm	2
+Cheras (SC-CR)	Swimming	SC-CR01	Sat	2pm - 5pm	3
+Bukit Jalil (SC-BJ)	Archery	SC-BJ04	Tue	2pm - 4pm	2
+Bukit Jalil (SC-BJ)	Volleyball	SC-BJ06	Mon	2pm - 4pm	2

@@ -1,0 +1,13 @@
+RC0101	Ali Ahmad	12/3/1980	1/1/2008	7/6/2020	Bukit Jalil (SC-BJ)	Football	SC-BJ03	200	3.8	ahmad@gmail.com	0134411257	10,Jalan Sembilan,Taman Sentosa
+RC0102	Lee Chong Wei	11/6/1985	12/5/2010	 -- 	Bukit Jalil (SC-BJ)	Badminton	SC-BJ02	450	3.8	leecwei@gmail.com	0197788909	22,Jalan Besar, Taman Kecil
+RC0103	Saminah Tamisah	4/12/1989	1/9/2012	 -- 	Bukit Jalil (SC-BJ)	Gymnastics	SC-BJ05	330	3.9	saminah@gmail.com	0127790456	90,Jalan Coconut,Taman Banana
+RC0104	Haminah Fazih	31/8/1979	9/4/2009	 -- 	Damansara (SC-DM)	Table Tennis	SC-DM010	250	3.5	fazih@gmail.com	0178934778	11-4,Block A,Taman Pasir
+RC0105	Chong Jin Fa	12/12/1989	13/4/2014	 -- 	Damansara (SC-DM)	Badminton	SC-DM02	300	3.5	chongjifa@gmail.com	0147725401	69,Jalan Kecil 1,Taman Besar
+RC0106	Tee Zhi Jiang	25/4/1990	1/1/2018	 -- 	Damansara (SC-DM)	Basketball	SC-DM07	250	3.8	zhi_j@gmail.com	0189972301	10,Jalan Kiri, Taman Kanan
+RC0107	Sally Romida	31/7/1988	20/5/2015	 -- 	Cheras (SC-CR)	Volleyball	SC-CR06	300	3.8	sallyR@gmail.com	0169983256	21,Jalan Belakang,Taman Sentosa
+RC0108	Ali Hadida	10/3/1983	1/5/2009	 -- 	Cheras (SC-CR)	Archery	SC-CR04	350	3.8	alihadi@gmail.com	0198824515	43,Jalan Mutum,Taman Coklat
+RC0109	John Holiday	13/1/1982	1/6/2007	 -- 	Cheras (SC-CR)	Swimming	SC-CR01	450	3.8	jholiday@gmail.com	0163324801	6,Jalan Siang, Taman Wakanda
+RC0110	Cher Shun Ding	12/9/1970	1/3/2000	 -- 	Bukit Jalil (SC-BJ)	Archery	SC-BJ04	300	3.5	sding @gmial.com	0135677890	45,Jalan Kelantan,Taman Rambutan
+RC0111	Lim Chee Kiong	12/12/1975	1/6/2006	 -- 	Damansara (SC-DM)	Archery	SC-DM04	250	3.5	limck@gmail.com	0197078621	23,Jalan satu, Taman Ramai
+RC0112	Johnson Jack	12/9/1980	12/6/2008	 -- 	Cheras (SC-CR)	Cricket	SC-CR08	350	3.5	j_jack@gmail.com	0102267854	33,Jalan Hutan, Taman Selatan
+RC0113	chong li ren	12/12/1990	12/1/2009	 -- 	Bukit Jalil (SC-BJ)	Volleyball	SC-BJ06	500	4.5	33,Jalan Biru,	2113	34eww

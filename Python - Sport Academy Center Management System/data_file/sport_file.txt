@@ -1,0 +1,13 @@
+Damansara (SC-DM)	Basketball	SC-DM07	Tee Zhi Jiang
+Damansara (SC-DM)	Archery	SC-DM04	Lim Chee Kiong
+Cheras (SC-CR)	Cricket	SC-CR08	Johnson Jack
+Bukit Jalil (SC-BJ)	Football	SC-BJ03	Ali Ahmad
+Bukit Jalil (SC-BJ)	Badminton	SC-BJ02	Lee Chong Wei
+Bukit Jalil (SC-BJ)	Gymnastics	SC-BJ05	Saminah Tamisah
+Damansara (SC-DM)	Table Tennis	SC-DM010	Haminah Fazih
+Damansara (SC-DM)	Badminton	SC-DM02	Chong Jin Fa
+Cheras (SC-CR)	Volleyball	SC-CR06	Sally Romida
+Cheras (SC-CR)	Archery	SC-CR04	Ali Hadida
+Cheras (SC-CR)	Swimming	SC-CR01	John Holiday
+Bukit Jalil (SC-BJ)	Archery	SC-BJ04	Cher Shun Ding
+Bukit Jalil (SC-BJ)	Volleyball	SC-BJ06	chong li ren

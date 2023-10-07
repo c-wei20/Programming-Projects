@@ -1,0 +1,1 @@
+int sortDateCondition(int*, int*, int*, int*, int*, int*);

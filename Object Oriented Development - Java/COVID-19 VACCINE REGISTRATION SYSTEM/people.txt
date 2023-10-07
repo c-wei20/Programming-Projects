@@ -1,0 +1,168 @@
+980101019343
+true
+Lee
+1/Jan/1998
+23
+Male
+Jalan Coconut, Taman Banana, 81400 Kluang
+Johor
+0123344556
+lee@gmail.com
+123456
+
+050101010233
+true
+Lim
+1/Jan/2000
+21
+Female
+Jalan Apple, Taman Watermelon, 81200 Kuala Lumpur
+Kuala Lumpur
+0123325543
+lim@gmail.com
+123456
+
+871028014333
+true
+Jason
+28/Oct/1987
+34
+Male
+Jalan Kota, Taman Tinggi, 13443 Kuching
+Sarawak
+0145446675
+kim@gnail.com
+IamJason
+
+011011010322
+true
+Rose12
+11/Oct/2001
+20
+Female
+Jalan Rose, Taman Rose, 85200 Johor Bahru
+Johor
+0122233789
+rose11@gmail.com
+rose123
+
+001224010542
+true
+Lisa
+24/Dec/2000
+1
+Female
+Jalan Lisa, Taman Lisa, 84033 Kuala Lumpur
+Kuala Lumpur
+0135543234
+lisa@gmail.com
+lisa123
+
+011224010431
+true
+Law
+24/Dec/2001
+20
+Male
+Jalan Apple, Taman Coco, 82500 Kluang
+Johor
+01775445563
+law@gmail.com
+123456
+
+991212010433
+true
+Beh
+12/Dec/1999
+22
+Male
+Jalan Biru, Taman Merah, 85400 Kota Tinggi
+Johor
+0102345677
+beh123@gmail.com
+123456
+
+531122105545
+true
+Halson
+22/Nov/1953
+68
+Male
+Jalan Sentosa, Taman Sotong, 54000 Subang
+Negeri Sembilan
+01366765543
+haha123@gmail.com
+012345
+
+670658945342523
+false
+Hasan
+1/Jan/1990
+31
+Male
+Jalan Sentosa, Taman Sejahtera, 81900 Muar
+Johor
+0198877545
+hs123@gmail.com
+12345
+
+800101010234
+true
+Fatimah Mohari
+1/Jan/1980
+41
+Female
+Jalan Kosong, Taman Air, 81900 Muar
+Johor
+0175546543
+fatimal@gmail.com
+123456
+
+9001010142523
+false
+Johny J
+1/Jan/1990
+31
+Male
+Jalan Kosong, Taman Belakang, 81900 Pontian
+Johor
+0123344554
+jj123@gamil.com
+12345
+
+4535662254566
+false
+Fahamudin
+1/Jan/1960
+61
+Male
+Jalan Coconut, Taman Banana, 43500 Kuala Lumpur
+Kuala Lumpur
+0182256784
+fhmd@gmail.com
+12345
+
+111
+true
+111
+1/Jan/1920
+101
+Male
+111
+Johor
+111
+111
+111
+
+222
+true
+222
+1/Jan/1920
+101
+Male
+APU
+Johor
+222
+222
+222
+

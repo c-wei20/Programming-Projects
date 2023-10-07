@@ -1,0 +1,126 @@
+PF
+Pfizer
+USA
+2
+499996
+Bukit Jalil Stadium
+
+PF
+Pfizer
+USA
+2
+73000
+Pahang Hospital
+
+SV
+Sinovic
+China
+2
+30000
+Kuala Lumpur Mall
+
+SV
+Sinovic
+China
+2
+30000
+Pahang Hospital
+
+PF
+Phizer
+USA
+2
+50000
+Aleluya Hospital
+
+AZ
+AstraZeneca
+UK
+2
+50000
+Aleluya Hospital
+
+SV
+Sinovic
+China
+2
+20000
+Aleluya Hospital
+
+PF
+Pfizer
+USA
+2
+60000
+Watermelon Stadium
+
+AZ
+AstraZeneca
+UK
+2
+20000
+Watermelon Stadium
+
+AZ
+AstraZeneca
+UK
+2
+20000
+Bukit Jalil Stadium
+
+SV
+Sinovic
+China
+2
+20000
+Bukit Jalil Stadium
+
+AZ
+AstraZeneca
+UK
+2
+20000
+Kuala Lumpur Mall
+
+PF
+Pfizer
+USA
+2
+59998
+Johor Stadium
+
+SV
+Sinovic
+China
+2
+9998
+Johor Stadium
+
+AZ
+AstraZeneca
+UK
+2
+20000
+Johor Stadium
+
+PF
+Pfizer
+USA
+2
+50000
+Kota Tinggi Hall
+
+AZ
+AstraZeneca
+UK
+2
+30000
+Kota Tinggi Hall
+
+PF
+Pfizer
+USA
+2
+9999
+PJ
+
